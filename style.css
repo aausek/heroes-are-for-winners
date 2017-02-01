@@ -1,0 +1,32 @@
+	body {
+		background-color: midnightblue;
+	}
+	
+	img {
+		border: 24px solid;
+		color: oldlace;
+		display: block;
+		margin: auto;
+	}
+
+	h1, h2, h3, p, table {
+		font-family: "Georgia", serif
+	}
+
+	h1 {
+		text-align: center;
+		font-size: 40px;
+		color: oldlace;
+	}
+
+	h2, h3, p, table {
+		color: oldlace;
+	}
+
+	table {
+		text-align: center;
+	}
+
+	a {
+		color: oldlace;
+	}
