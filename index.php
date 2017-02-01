@@ -1,1 +1,1 @@
-<?php include_once(newfile.html); ?>
+<?php include_once("fanpage.html"); ?>
